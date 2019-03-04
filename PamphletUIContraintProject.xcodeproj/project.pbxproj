@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B50AC626222D256B00C518BE /* Karmina Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = B50AC625222D256B00C518BE /* Karmina Regular.otf */; };
+		B50AC62A222D25CF00C518BE /* Karmina Bold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B50AC627222D25CF00C518BE /* Karmina Bold Italic.otf */; };
+		B50AC62B222D25CF00C518BE /* Karmina Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = B50AC628222D25CF00C518BE /* Karmina Bold.otf */; };
+		B50AC62C222D25CF00C518BE /* Karmina Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B50AC629222D25CF00C518BE /* Karmina Italic.otf */; };
 		B5889EB52226CC8B00C486F1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5889EB42226CC8B00C486F1 /* AppDelegate.swift */; };
 		B5889EB72226CC8B00C486F1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5889EB62226CC8B00C486F1 /* ViewController.swift */; };
 		B5889EBA2226CC8B00C486F1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5889EB82226CC8B00C486F1 /* Main.storyboard */; };
@@ -26,6 +30,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B50AC625222D256B00C518BE /* Karmina Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Karmina Regular.otf"; sourceTree = "<group>"; };
+		B50AC627222D25CF00C518BE /* Karmina Bold Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Karmina Bold Italic.otf"; sourceTree = "<group>"; };
+		B50AC628222D25CF00C518BE /* Karmina Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Karmina Bold.otf"; sourceTree = "<group>"; };
+		B50AC629222D25CF00C518BE /* Karmina Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Karmina Italic.otf"; sourceTree = "<group>"; };
+		B50AC62D222D292A00C518BE /* proximanovacond-semibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "proximanovacond-semibold.otf"; path = "/Users/macbookair/Desktop/PampletUIConstraintProject/PamphletUIContraintProject/proximanovacond-semibold.otf"; sourceTree = "<absolute>"; };
+		B50AC62E222D293400C518BE /* proximanovacond-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "proximanovacond-regular.otf"; path = "/Users/macbookair/Desktop/PampletUIConstraintProject/PamphletUIContraintProject/proximanovacond-regular.otf"; sourceTree = "<absolute>"; };
+		B50AC62F222D294F00C518BE /* proximanova-regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "proximanova-regular.otf"; path = "/Users/macbookair/Desktop/PampletUIConstraintProject/PamphletUIContraintProject/proximanova-regular.otf"; sourceTree = "<absolute>"; };
+		B50AC630222D295100C518BE /* proximanova-bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "proximanova-bold.otf"; path = "/Users/macbookair/Desktop/PampletUIConstraintProject/PamphletUIContraintProject/proximanova-bold.otf"; sourceTree = "<absolute>"; };
 		B5889EB12226CC8B00C486F1 /* PamphletUIContraintProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PamphletUIContraintProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5889EB42226CC8B00C486F1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B5889EB62226CC8B00C486F1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -81,6 +93,14 @@
 				B5889EB62226CC8B00C486F1 /* ViewController.swift */,
 				B5889EB82226CC8B00C486F1 /* Main.storyboard */,
 				B5889EBB2226CC8C00C486F1 /* Assets.xcassets */,
+				B50AC625222D256B00C518BE /* Karmina Regular.otf */,
+				B50AC627222D25CF00C518BE /* Karmina Bold Italic.otf */,
+				B50AC62E222D293400C518BE /* proximanovacond-regular.otf */,
+				B50AC62D222D292A00C518BE /* proximanovacond-semibold.otf */,
+				B50AC630222D295100C518BE /* proximanova-bold.otf */,
+				B50AC62F222D294F00C518BE /* proximanova-regular.otf */,
+				B50AC628222D25CF00C518BE /* Karmina Bold.otf */,
+				B50AC629222D25CF00C518BE /* Karmina Italic.otf */,
 				B5889EBD2226CC8C00C486F1 /* LaunchScreen.storyboard */,
 				B5889EC02226CC8C00C486F1 /* Info.plist */,
 			);
@@ -179,7 +199,11 @@
 			files = (
 				B5889EBF2226CC8C00C486F1 /* LaunchScreen.storyboard in Resources */,
 				B5889EBC2226CC8C00C486F1 /* Assets.xcassets in Resources */,
+				B50AC62C222D25CF00C518BE /* Karmina Italic.otf in Resources */,
 				B5889EBA2226CC8B00C486F1 /* Main.storyboard in Resources */,
+				B50AC62B222D25CF00C518BE /* Karmina Bold.otf in Resources */,
+				B50AC62A222D25CF00C518BE /* Karmina Bold Italic.otf in Resources */,
+				B50AC626222D256B00C518BE /* Karmina Regular.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
