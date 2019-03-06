@@ -2,18 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/macbookair/Desktop/PampletUIConstraintProject/PamphletUIContraintProject/proximanova-bold.otf">
-   </FileRef>
-   <FileRef
-      location = "group:/Users/macbookair/Desktop/PampletUIConstraintProject/PamphletUIContraintProject/proximanova-regular.otf">
-   </FileRef>
-   <FileRef
-      location = "group:/Users/macbookair/Desktop/PampletUIConstraintProject/PamphletUIContraintProject/proximanovacond-regular.otf">
-   </FileRef>
-   <FileRef
-      location = "group:/Users/macbookair/Desktop/PampletUIConstraintProject/PamphletUIContraintProject/proximanovacond-semibold.otf">
-   </FileRef>
-   <FileRef
       location = "self:">
    </FileRef>
 </Workspace>
